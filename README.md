@@ -1,6 +1,6 @@
 
 
-# 📘 C++ Learning – Bro Code YouTube Series
+# 📘 C++ Learning 
 
 This repository documents my journey learning C++. It includes code examples, notes, and exercises aligned with the structure of his tutorials.
 
