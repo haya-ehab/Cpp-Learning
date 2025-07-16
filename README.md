@@ -31,7 +31,7 @@ cpp-brocode-learning/
 ---
 
   ## 🛠 Tools Used
-Compiler: g++
+Compiler: GCC
 <br>
 Editor: Visual Studio Code
 <br>
