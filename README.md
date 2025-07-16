@@ -12,7 +12,7 @@ This repository documents my journey learning C++. It includes code examples, no
 ## 📂 Repository Structure
 
 ```bash
-cpp-brocode-learning/
+cpp-learning/
 ├── 01_intro/               # Hello World, syntax, compiling
 ├── 02_variables/           # Variables, data types, constants
 ├── 03_input_output/        # cin, cout, getline
