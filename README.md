@@ -4,7 +4,7 @@
 
 This repository documents my journey learning C++. It includes code examples, notes, and exercises aligned with the structure of his tutorials.
 
-![C++](https://img.shields.io/badge/C%2B%2B-pp-blue?style=flat-square&logo=c%2B%2B)
+![C++](https://img.shields.io/badge/C%2B%2B-blue?style=flat-square&logo=c%2B%2B)
 ![Status](https://img.shields.io/badge/Learning-In--Progress-green?style=flat-square)
 
 ---
