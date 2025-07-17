@@ -4,7 +4,7 @@
 
 This repository documents my journey learning C++. It includes code examples, notes, and exercises aligned with the structure of his tutorials.
 
-![C++](https://img.shields.io/badge/C%2B%2B-Bro%20Code%20Course-blue?style=flat-square&logo=c%2B%2B)
+![C++](https://img.shields.io/badge/C%2B%2B-blue?style=flat-square&logo=c%2B%2B)
 ![Status](https://img.shields.io/badge/Learning-In--Progress-green?style=flat-square)
 
 ---
@@ -12,7 +12,7 @@ This repository documents my journey learning C++. It includes code examples, no
 ## 📂 Repository Structure
 
 ```bash
-cpp-brocode-learning/
+cpp-learning/
 ├── 01_intro/               # Hello World, syntax, compiling
 ├── 02_variables/           # Variables, data types, constants
 ├── 03_input_output/        # cin, cout, getline
@@ -31,7 +31,7 @@ cpp-brocode-learning/
 ---
 
   ## 🛠 Tools Used
-Compiler: g++
+Compiler: GCC
 <br>
 Editor: Visual Studio Code
 <br>
