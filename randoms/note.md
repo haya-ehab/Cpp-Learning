@@ -1,0 +1,1 @@
+**this fie contains some code snippets and some useful methods for a lot of things**
